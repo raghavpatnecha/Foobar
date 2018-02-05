@@ -24,7 +24,7 @@ Languages
 	
 To provide a Python solution, edit solution.py
 To provide a Java solution, edit solution.java
-	```
+	
 	Test cases
 	==========
 	
@@ -39,4 +39,4 @@ To provide a Java solution, edit solution.java
 	    (int) t = 15
 	Output:
 	    (int list) [-1, -1]
-    ```
+    
