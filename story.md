@@ -32,9 +32,11 @@ Start
 1) First Part
 <img src="https://github.com/raghavpatnecha/Foobar/blob/master/screenshot/lvl3st.png">
 There are a lot of difficult things about being undercover as Commander Lambda's personal assistant, but you have to say, the personal spa and private hot cocoa bar are pretty awesome.
+
 2) Second Part
 <img src="https://github.com/raghavpatnecha/Foobar/blob/master/screenshot/lvl333.png">
 Commander Lambda has six suits, three dress uniforms, four casual outfits, and one Dress-Uniform-For-Important-Speeches-Only. You know this because you've already had to take all of them to the dry cleaner's. Twice!
+
 3) Third Part
 <img src="https://github.com/raghavpatnecha/Foobar/blob/master/screenshot/lvl366.png">
 Who the heck puts clover and coffee creamer in their tea? Commander Lambda, apparently. When you signed up to infiltrate her organization, you didn't think you'd get such an up-close and personal look at her more...unusual tastes.
@@ -52,6 +54,7 @@ Start
 1) First Half
 <img src="https://github.com/raghavpatnecha/Foobar/blob/master/screenshot/lvl4st.png">
 You're pretty sure that last CRASH-BANG-THUD noise was the Sector C central support column collapsing. At least there's nothing in Sector C except the clover and coffee creamer storage.
+
 2) Second Half
 <img src="https://github.com/raghavpatnecha/Foobar/blob/master/screenshot/lvl450.png">
 Six thousand, seven hundred and forty-one, six thousand, seven hundred and forty-two, six thousand, seven hundred and forty-three... Good grief! Just how many bunnies has Commander Lambda captured?!
