@@ -11,7 +11,7 @@ Called foo.bar, the system has been used by Google for the past few years and is
 
 <img src="https://github.com/raghavpatnecha/Foobar/blob/master/share_solutions_level3_done.png">
 
-## I haven't been contacted by Google Recruiters. But I think Foobar is a great platform to showcase your skills and have fun at the same time. I personally loved the way google asks questions in the form of a story which makes it even more intresting to solve.
+## I haven't been contacted by Google Recruiters. But I think Foobar is a great platform to showcase your skills and have fun at the same time. I personally loved the way google asks questions in the form of a story which makes it even more interesting to solve.
 
 ### Disclaimer
 The code on this repository is for educational purposes. If you are taking the Google Foobar Challenge then I encourage you to write the code on your own because their is no point in copying. As I have given the challenge from 2-3 email ids so I have almost all the foobar questions but I won't be uploading the code to all.
