@@ -4,5 +4,5 @@ You need to figure out which sets of panels in any given array you can take offl
 Each array of solar panels contains at least 1 and no more than 50 panels, and each panel will have a power output level whose absolute value is no greater than 1000 (some panels are malfunctioning so badly that they're draining energy, but you know a trick with the panels' wave stabilizer that lets you combine two negative-output panels to produce the positive output of the multiple of their power values). The final products may be very large, so give the answer as a string representation of the number.
 
 
-``` Inputs: (int list) xs = [2, 0, 2, 2, 0] Output: (string) "8"
-    Inputs: (int list) xs = [-2, -3, 4, -5] Output: (string) "60" ```
+    Inputs: (int list) xs = [2, 0, 2, 2, 0] Output: (string) "8"
+    Inputs: (int list) xs = [-2, -3, 4, -5] Output: (string) "60"
